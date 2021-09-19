@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://github.com/PavelMaltsev20/Flickr/blob/master/Images/flickr.png?raw=true" width="250" height="250">
 <div>
@@ -7,9 +8,9 @@
 Tech:
   
 **Android, Kotlin, MVVM, Paging**, Retrofit, Facebook shimmer library, Glide, Swipe Refresh Layout library
-
+##
   
-Description: 
+Overview: 
   
 In this project, the user can see the newly added photos from the popular photos host service - Flickr. (*pic. 1 and 2*)
 
@@ -23,6 +24,7 @@ Also used **Facebook shimmer** library and **Swipe Refresh Layout** library to m
 
 In addition, the application **monitors the Internet connection** and notifies the user about its absence. (*pic. 7 and 8*)
 
+#
 
 Pictures 1 and 2 (app example)
 
