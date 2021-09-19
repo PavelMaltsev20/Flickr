@@ -1,5 +1,6 @@
-<img src="https://github.com/PavelMaltsev20/Flickr/blob/master/Images/flickr.png?raw=true" width="250" height="250" align="right">
-
+<div align="center">
+<img src="https://github.com/PavelMaltsev20/Flickr/blob/master/Images/flickr.png?raw=true" width="250" height="250">
+<div>
 # Welcome to Flickr project!
 
 **Android, Kotlin, MVVM, Paging**, Retrofit, Facebook shimmer library, Glide, Swipe Refresh Layout library
