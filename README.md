@@ -1,6 +1,4 @@
-
-﻿![Flickr icon](https://github.com/PavelMaltsev20/Flickr/blob/master/Images/flickr.png?raw=true)
-
+<img src="https://github.com/PavelMaltsev20/Flickr/blob/master/Images/flickr.png?raw=true" width="400" height="400">
 
 # Welcome to Flickr project!
 
