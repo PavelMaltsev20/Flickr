@@ -5,10 +5,12 @@
 # Welcome to Flickr project!
 
 Tech:
+  
 **Android, Kotlin, MVVM, Paging**, Retrofit, Facebook shimmer library, Glide, Swipe Refresh Layout library
 
   
 Description: 
+  
 In this project, the user can see the newly added photos from the popular photos host service - Flickr. (*pic. 1 and 2*)
 
 Also, when you click on the photo, a new window will open where you can view the photo in more detail (*pic. 3 and 4*) 
