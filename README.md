@@ -14,11 +14,10 @@ Overview:
   
 In this project, the user can see the newly added photos from the popular photos host service - Flickr. (*pic. 1 and 2*)
 
-Also, when you click on the photo, a new window will open where you can view the photo in more detail (*pic. 3 and 4*) 
-or by button pressing go to Flickr site for more information (*pic. 5 and 6*).
+Also, when user click on the photo, a new window will open where user can view the photo in full size according to phone screen size (*pic. 3 and 4*) or go to Flickr site by pressing on the button (*pic. 5 and 6*).
 
 This project uses **Paging technology** allowing infinite scrolling.
-You may be familiar with this technology from Instagram or Facebook
+You may be familiar with this technology from Instagram or Facebook.
 
 Also used **Facebook shimmer** library and **Swipe Refresh Layout** library to make User Experience better.
 
