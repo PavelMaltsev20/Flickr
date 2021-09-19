@@ -1,4 +1,4 @@
-<img src="https://github.com/PavelMaltsev20/Flickr/blob/master/Images/flickr.png?raw=true" width="400" height="400">
+<img src="https://github.com/PavelMaltsev20/Flickr/blob/master/Images/flickr.png?raw=true" width="250" height="250">
 
 # Welcome to Flickr project!
 
