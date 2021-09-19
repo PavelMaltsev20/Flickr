@@ -1,3 +1,4 @@
+
 ﻿![Flickr icon](https://github.com/PavelMaltsev20/Flickr/blob/master/Images/flickr.png?raw=true)
 
 
@@ -17,13 +18,17 @@ In addition, the application monitors the Internet connection and notifies the u
 
 
 Pictures 1 and 2
-<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/1.png" width="120" height="200"><img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/2.png" width="120" height="200">
+
+<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/1.png" width="120" height="200"> <img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/2.png" width="120" height="200">
 
 Pictures 3 and 4
-<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/3.png" width="120" height="200"><img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/4.png" width="120" height="200">
+
+<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/3.png" width="120" height="200"> <img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/4.png" width="120" height="200">
 
 Pictures 5 and 6
-<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/5.png" width="120" height="200"><img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/6.png" width="120" height="200">
+
+<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/5.png" width="120" height="200"> <img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/6.png" width="120" height="200">
 
 Pictures 7 and 8
-<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/7.png" width="120" height="200"><img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/8.png" width="120" height="200">
+
+<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/7.png" width="120" height="200"> <img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/8.png" width="120" height="200">
