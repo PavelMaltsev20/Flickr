@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_photo_height">250dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+</resources>

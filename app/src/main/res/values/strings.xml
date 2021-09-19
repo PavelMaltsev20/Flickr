@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flickr</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="flickr_photo">Flickr photo</string>
+    <string name="error_while_downloading">Error occurred while downloading image</string>
+    <string name="open_site">Open site</string>
+    <string name="connection_lost">Connection lost</string>
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+</resources>
