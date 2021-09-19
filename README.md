@@ -16,18 +16,18 @@ Also used Facebook shimmer library and Swipe Refresh Layout library to make User
 In addition, the application monitors the Internet connection and notifies the user about its absence. (as shown in picture 7 and 8)
 
 
- <img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/1.png" width="100" height="200">
+ <img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/1.png" width="120" height="200">
 
-![enter image description here](https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/2.png | width=100)
+<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/2.png" width="120" height="200">
 
-![enter image description here](https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/3.png | width=100)
+<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/3.png" width="120" height="200">
 
-![enter image description here](https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/4.png | width=100)
+<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/4.png" width="120" height="200">
 
-![enter image description here](https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/5.png | width=100)
+<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/5.png" width="120" height="200">
 
-![enter image description here](https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/6.png | width=100)
+<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/6.png" width="12" height="200">
 
-![enter image description here](https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/7.png | width=100)
+<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/7.png" width="120" height="200">
 
-![enter image description here](https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/8.png | width=100)
+<img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/8.png" width="120" height="200">
