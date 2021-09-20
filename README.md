@@ -12,8 +12,8 @@ Tech:
   
 Overview: 
   
-In this project, the user can see the newly added photos from the popular photos host service - Flickr. (*pic. 1 and 2*)
-
+In this project, the user can see the recently added photos from the popular photos hosting - Flickr. (*pic. 1 and 2*)
+  
 Also, when user click on the photo, a new window will open where user can view the photo in full size according to phone screen size (*pic. 3 and 4*) or go to Flickr site by pressing on the button (*pic. 5 and 6*).
 
 This project uses **Paging technology** allowing infinite scrolling.
