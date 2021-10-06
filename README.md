@@ -29,7 +29,7 @@ Pictures 1 and 2 (app example)
 
 <img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/1.png" width="120" height="200"> <img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/2.png" width="120" height="200">
 
-Pictures 3 and 4 (photos details)
+Pictures 3 and 4 (photo details)
 
 <img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/3.png" width="120" height="200"> <img src="https://raw.githubusercontent.com/PavelMaltsev20/Flickr/master/Images/4.png" width="120" height="200">
 
